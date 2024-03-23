@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.minHeight {
+  min-height: calc(100vh - 132px);
+}
+a.active {
+  color: #4a00ff;
+}
